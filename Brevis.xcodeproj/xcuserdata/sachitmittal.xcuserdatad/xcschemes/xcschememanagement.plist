@@ -4,10 +4,38 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Brevis.xcscheme_^#shared#^_</key>
+		<key>Bravis iPad.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+		<key>Brevis Mac.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Brevis.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>882BE4742E94287200B36AD7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>882BE4812E94287400B36AD7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>882BE48B2E94287400B36AD7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
